@@ -1,9 +1,11 @@
 
 # Pertemuan 13 - Debugging dan Testing
 
-Nama: Indah Palupi Kusumaningrum
-NIM: 2225250212
-Kelas: 3F
+- Nama: Indah Palupi Kusumaningrum
+
+- NIM: 2225250212
+
+- Kelas: 3F
 
 ## Kasus
 Program yang diuji adalah program debugging untuk menghitung rata-rata nilai, menentukan status kelulusan, dan mencari nilai tertinggi.
